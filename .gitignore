@@ -1,0 +1,10 @@
+# Raw datasets
+Data/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
